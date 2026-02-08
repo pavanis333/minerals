@@ -486,8 +486,7 @@ export const quizQuestions = [
     options: ["30%", "50%", "70%", "90%"],
     correct: 2,
     explanation: "Democratic Republic of Congo produces 70% of global cobalt, making it critical for battery and electronics industry."
-  }
-];
+  },
   {
     question: "China limited exports of which two strategic minerals in 2023-2024?",
     options: ["Lithium and Cobalt", "Gallium and Antimony", "Copper and Zinc", "Gold and Silver"],
